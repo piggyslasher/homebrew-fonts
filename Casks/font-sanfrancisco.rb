@@ -4,7 +4,6 @@ cask 'font-sanfrancisco' do
 
   url 'https://github.com/wellsriley/YosemiteSanFranciscoFont/archive/master.zip'
   homepage 'https://developer.apple.com/watchkit/'
-  license :unknown
 
   font 'YosemiteSanFranciscoFont-master/System San Francisco Text Bold.ttf'
   font 'YosemiteSanFranciscoFont-master/System San Francisco Text Heavy.ttf'
